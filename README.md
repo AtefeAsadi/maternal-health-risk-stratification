@@ -105,8 +105,17 @@ maternal_health_risk_stratification/
 └── report/
     ├── maternal_health_risk_report.pdf
     └── maternal_health_risk_short_summary.pdf
-Reproducibility
+```
 
+## Reproducibility
+
+Install the required packages with:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+Then open `notebooks/maternal_health_risk_analysis.ipynb` and run the cells from the beginning.
 Install the required packages with:
 
 python -m pip install -r requirements.txt
